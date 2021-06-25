@@ -1,0 +1,6 @@
+* Competitive Programming Codes
+  This repository contains some templates for common competitve programming algorithms and data-structures
+
+  Codes are written for ~C++17~ standard (you may need to tweak some parts to run on older version)
+
+  The templates in this repository aim toward abstraction. The goal is more copy-paste's and less edits.
